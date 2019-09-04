@@ -12,9 +12,13 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        callFunc()
         // Do any additional setup after loading the view.
     }
-
+func callFunc()
+{
+    print("test Demo")
+}
 
 }
 
