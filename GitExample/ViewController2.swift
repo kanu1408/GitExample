@@ -12,7 +12,7 @@ class ViewController2: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // This is the second view conteroller
+        // This is the second view conteroller edited by branch1
         // Do any additional setup after loading the view.
     }
     
