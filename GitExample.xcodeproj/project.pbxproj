@@ -12,6 +12,7 @@
 		E25AD7EA231EBC3B00BA5FEB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E25AD7E8231EBC3B00BA5FEB /* Main.storyboard */; };
 		E25AD7EC231EBC3E00BA5FEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E25AD7EB231EBC3E00BA5FEB /* Assets.xcassets */; };
 		E25AD7EF231EBC3E00BA5FEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E25AD7ED231EBC3E00BA5FEB /* LaunchScreen.storyboard */; };
+		E2F72A2823A9245A0065FA5A /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2F72A2723A9245A0065FA5A /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E25AD7EB231EBC3E00BA5FEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E25AD7EE231EBC3E00BA5FEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E25AD7F0231EBC3E00BA5FEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2F72A2723A9245A0065FA5A /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				E25AD7E4231EBC3B00BA5FEB /* AppDelegate.swift */,
 				E25AD7E6231EBC3B00BA5FEB /* ViewController.swift */,
+				E2F72A2723A9245A0065FA5A /* ViewController2.swift */,
 				E25AD7E8231EBC3B00BA5FEB /* Main.storyboard */,
 				E25AD7EB231EBC3E00BA5FEB /* Assets.xcassets */,
 				E25AD7ED231EBC3E00BA5FEB /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				E25AD7E7231EBC3B00BA5FEB /* ViewController.swift in Sources */,
 				E25AD7E5231EBC3B00BA5FEB /* AppDelegate.swift in Sources */,
+				E2F72A2823A9245A0065FA5A /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
