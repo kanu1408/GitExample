@@ -15,7 +15,11 @@ class ViewController: UIViewController {
         print("added comment in master")
         // Do any additional setup after loading the view.
     }
-
+func callFunc()
+{
+    //This the comment added by Branch 1
+    print("test Demo")
+}
 
 }
 
