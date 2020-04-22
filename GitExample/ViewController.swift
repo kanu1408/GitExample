@@ -13,7 +13,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("added comment in master")
-        callFunc()
         // Do any additional setup after loading the view.
     }
 func callFunc()
