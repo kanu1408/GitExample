@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     }
 func callFunc()
 {
+    // this is edited by branch 2
     print("test Demo")
 }
 
